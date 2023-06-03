@@ -15,3 +15,5 @@ I'm Charlotte Lund, a frontend developer student currentlu studying at Noroff. I
 [My Github page](https://github.com/chalund)  
 [My LinkedIn page](https://www.linkedin.com/in/charlotte-lund-48419b249/)
 
+## Contact me
+chalund@gmail.com
