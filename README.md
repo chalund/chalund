@@ -1,16 +1,17 @@
 ### Hi there 👋
 
-<!--
-**chalund/chalund** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Charlotte Lund, a frontend developer student currentlu studying at Noroff. I have a strong passion for generating creative innovative ideas and implementing effective coding solutions. I strongly believe in delivering exceptional user experiences, understanding the importance of UX and UI design for all users.
 
-Here are some ideas to get you started:
+## Languages and Tools
+![icons8-html-48](https://github.com/chalund/chalund/assets/114383740/068c8b7f-b1e4-4ee6-8728-a9bab8a08530)
+![icons8-css-48](https://github.com/chalund/chalund/assets/114383740/dc5798da-fa29-4a13-8301-4335ff2bba60)
+![icons8-javascript-48](https://github.com/chalund/chalund/assets/114383740/250be9f5-da4e-4226-bbdd-1559b6aa3aa5)
+![figma](https://github.com/chalund/chalund/assets/114383740/eb28296c-c74e-4d6a-a3e6-6cc80105bf7d)
+![icons8-wordpress-48](https://github.com/chalund/chalund/assets/114383740/ae85ae8f-3880-4c3f-8c34-a05db99fa99f)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+## Connect with me
+[My Github page](https://github.com/chalund)  
+[My LinkedIn page](https://www.linkedin.com/in/charlotte-lund-48419b249/)
+
