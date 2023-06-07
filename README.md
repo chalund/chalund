@@ -12,6 +12,10 @@ I'm Charlotte Lund, a frontend developer student currentlu studying at Noroff. I
 
 
 ## Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://pe.linkedin.com/in/charlotte-lund-48419b249/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/chalund)
+
 [My Github page](https://github.com/chalund)  
 [My LinkedIn page](https://www.linkedin.com/in/charlotte-lund-48419b249/)
 
