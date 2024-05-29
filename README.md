@@ -3,14 +3,11 @@
 
 ## About 🌱
 
-I'm Charlotte Lund, a frontend developer student currentlu studying at Noroff. I have a strong passion for generating creative innovative ideas and implementing effective coding solutions. I strongly believe in delivering exceptional user experiences, understanding the importance of UX and UI design for all users.
+I'm Charlotte Lund, a recent graduate from Noroff's 2-year front-end development program, actively seeking job opportunities or internships. I'm passionate about generating creative ideas and implementing effective coding solutions. With a strong belief in delivering exceptional user experiences, I prioritize effective UX and UI solutions for all individuals.
 
 ## Languages and Tools
-![icons8-html-48](https://github.com/chalund/chalund/assets/114383740/068c8b7f-b1e4-4ee6-8728-a9bab8a08530)
-![icons8-css-48](https://github.com/chalund/chalund/assets/114383740/dc5798da-fa29-4a13-8301-4335ff2bba60)
-![icons8-javascript-48](https://github.com/chalund/chalund/assets/114383740/250be9f5-da4e-4226-bbdd-1559b6aa3aa5)
-![figma](https://github.com/chalund/chalund/assets/114383740/eb28296c-c74e-4d6a-a3e6-6cc80105bf7d)
-![icons8-wordpress-48](https://github.com/chalund/chalund/assets/114383740/ae85ae8f-3880-4c3f-8c34-a05db99fa99f)
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,wordpress,figma,bootstrap,sass,react,vite,tailwind)](https://skillicons.dev)
 
 
 
